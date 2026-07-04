@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Wipro TalentNext Java Learning Journey
+#  Wipro TalentNext Java Learning Journey
 
 <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java">
 <img src="https://img.shields.io/badge/Course-Wipro%20TalentNext-blue?style=for-the-badge">
