@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Wipro TalentNext Java Learning Journey
+#  Wipro TalentNext Java Learning Journey
 
 ### Java Full Stack Development Program
 
