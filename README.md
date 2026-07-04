@@ -1,60 +1,83 @@
-# Wipro TalentNext Java
+<div align="center">
 
-This repository contains my Java programming practice and hands-on assignments completed as part of the **Wipro TalentNext Java Full Stack Development Program**.
+# ☕ Wipro TalentNext Java Learning Journey
 
-## Course Overview
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/Course-Wipro%20TalentNext-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge">
 
-The repository includes solutions, exercises, and mini projects completed during the learning journey.
+### 🚀 My Java Full Stack Development Practice Repository
 
-## Topics Covered
+</div>
 
-- Java Fundamentals
-- Language Basics
-- Flow Control Statements
-- Arrays
-- Object-Oriented Programming (OOP)
-- Exception Handling
-- Collections Framework
-- Multithreading
-- JDBC
-- Java 8 Features
-- Mini Projects
-- Hands-on Assignments
+---
 
-## Repository Structure
+# 📖 About
+
+This repository contains my Java programming practice completed during the **Wipro TalentNext Java Full Stack Development Program**.
+
+The purpose of this repository is to:
+
+- 📚 Learn Java fundamentals
+- 💻 Practice coding assignments
+- 🧩 Solve programming exercises
+- 🚀 Track my learning progress
+- 🌱 Build a strong Java foundation
+
+---
+
+# 📂 Repository Structure
 
 ```
-wipro-talentnext-java/
+java_fundamentals/
 │
-├── java_fundamentals/
-│   └── src/
-│       ├── languagebasics/
-│       ├── flowcontrolstatements/
-│       ├── arrays/
-│       ├── oop/
-│       ├── exceptionhandling/
-│       ├── collections/
-│       ├── multithreading/
-│       └── jdbc/
-│
-└── README.md
+├── src/
+│   ├── languagebasics/
+│   ├── operators/
+│   ├── controlstatements/
+│   ├── arrays/
+│   ├── strings/
+│   ├── oops/
+│   ├── exceptionhandling/
+│   ├── collections/
+│   └── ...
 ```
 
-## Technologies Used
+---
 
-- Java 21
-- Eclipse IDE
-- Git
-- GitHub
+# 📅 Learning Progress
 
-## Learning Outcome
+| Module | Status |
+|---------|--------|
+| ✅ Language Basics | Completed |
+| ⏳ Operators | In Progress |
+| ⏳ Control Statements | Upcoming |
+| ⏳ Arrays | Upcoming |
+| ⏳ OOP Concepts | Upcoming |
+| ⏳ Exception Handling | Upcoming |
+| ⏳ Collections | Upcoming |
 
-Through this program, I am strengthening my understanding of Java programming by solving coding exercises, completing hands-on assignments, and building a strong foundation for Full Stack Development.
+---
 
-## Author
+# 🛠 Technologies Used
 
-**Rupa Sri**
+- ☕ Java
+- 💻 Eclipse IDE
+- 🌿 Git
+- 🐙 GitHub
 
-B.Tech – Cybersecurity & IoT (Blockchain Technology)
+---
 
-GitHub: https://github.com/rupasribakka
+# 🎯 Goal
+
+> Practice Java every day, improve problem-solving skills, and prepare for Java Full Stack Development.
+
+---
+
+<div align="center">
+
+### ⭐ Learning • Coding • Growing
+
+**Thanks for visiting my repository!**
+
+</div>
