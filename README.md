@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Wipro TalentNext Java 
+#  Wipro TalentNext - Java 
 
 ### Java Full Stack Development Program
 
