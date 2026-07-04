@@ -119,6 +119,6 @@ Practice Java every day, improve problem-solving skills, and prepare for Java Fu
 
 ## ⭐ Learning • Coding • Growing
 
-### Thanks for visiting my repository! 🚀
+### Thanks for visiting my repository! 
 
 </div>
