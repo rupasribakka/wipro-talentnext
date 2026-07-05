@@ -84,19 +84,19 @@ wipro-talentnext-java
 
 | Module | Status |
 |----------|:------:|
-| Language Basics | ✅ Completed |
-| Operators | ⏳ Upcoming |
-| Flow Control Statements | ⏳ Upcoming |
-| Arrays | ⏳ Upcoming |
+| ✅ Language Basics | ✅ Completed |
+| ✅ Flow Control Statements | ✅ Completed |
+| ✅ Arrays | ✅ Completed |
+| 🚀 Mini Project | 🔄 In Progress |
 | Classes & Objects | ⏳ Upcoming |
 | Inheritance | ⏳ Upcoming |
 | Polymorphism | ⏳ Upcoming |
 | Abstraction | ⏳ Upcoming |
 | Exception Handling | ⏳ Upcoming |
-| Collections | ⏳ Upcoming |
+| Collections Framework | ⏳ Upcoming |
 | Multithreading | ⏳ Upcoming |
 | JDBC | ⏳ Upcoming |
-| Mini Projects | ⏳ Upcoming |
+| Java 8 Features | ⏳ Upcoming |
 
 ---
 
