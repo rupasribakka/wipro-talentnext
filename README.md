@@ -84,10 +84,10 @@ wipro-talentnext-java
 
 | Module | Status |
 |----------|:------:|
-| ✅ Language Basics | ✅ Completed |
-| ✅ Flow Control Statements | ✅ Completed |
-| ✅ Arrays | ✅ Completed |
-| 🚀 Mini Project | 🔄 In Progress |
+| Language Basics | ✅ Completed |
+| Flow Control Statements | ✅ Completed |
+| Arrays | ✅ Completed |
+| Mini Project | ✅ Completed |
 | Classes & Objects | ⏳ Upcoming |
 | Inheritance | ⏳ Upcoming |
 | Polymorphism | ⏳ Upcoming |
