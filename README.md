@@ -54,26 +54,33 @@ The purpose of this repository is to:
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 wipro-talentnext-java
 │
-├── java_fundamentals
+├── JavaFundamentals
 │   └── src
-│       ├── languagebasics
-│       ├── operators
-│       ├── flowcontrol
-│       ├── arrays
-│       ├── classesandobjects
-│       ├── inheritance
-│       ├── polymorphism
-│       ├── abstraction
-│       ├── exceptionhandling
-│       ├── collections
-│       ├── multithreading
-│       ├── jdbc
-│       └── miniprojects
+│
+├── Logic_Building
+│   └── src
+│       ├── LC1_Number_based_problems
+│       ├── LC2_Number_based_problems
+│       ├── LC3_Array_based_problems
+│       ├── LC4_String_based_problems
+│       └── LC5_Array_based_problems
+│
+├── Logic_Building_Hour_Plan_M1
+│
+├── OOPS_Inheritance
+│   └── src
+│       ├── Classes_and_Objects
+│       ├── Encapsulation_Abstraction
+│       ├── Inheritance
+│       ├── Overriding_Polymorphism
+│       ├── String_StringBuffer
+│       ├── StringJoinerClass
+│       └── Optional_Class
 │
 └── README.md
 ```
