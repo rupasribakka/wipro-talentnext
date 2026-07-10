@@ -1,4 +1,4 @@
-package wrapperclasses;
+package wrapper_classes;
 import java.util.Scanner;
 
 public class HandsOnAssignment3 {

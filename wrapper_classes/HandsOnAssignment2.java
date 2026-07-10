@@ -1,4 +1,4 @@
-package wrapperclasses;
+package wrapper_classes;
 public class HandsOnAssignment2 {
     public static void main(String[] args) {
 
