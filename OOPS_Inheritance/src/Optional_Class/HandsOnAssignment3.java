@@ -13,9 +13,9 @@ class Employee {
 
 class InvalidEmployeeException extends Exception {
 
-	InvalidEmployeeException(String msg) {
-		super(msg);
-	}
+    public InvalidEmployeeException(String msg) {
+        super(msg);
+    }
 }
 
 public class HandsOnAssignment3 {
