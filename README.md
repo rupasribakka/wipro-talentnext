@@ -1,8 +1,8 @@
 <div align="center">
 
-#  Wipro TalentNext - Java 
+# ☕ Wipro TalentNext - Java Full Stack Development
 
-### Java Full Stack Development Program
+### Learning Journey | Hands-on Assignments | Mini Projects
 
 <p>
   <img src="https://img.shields.io/badge/Java-Core%20Java-orange?style=for-the-badge&logo=openjdk" />
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
 </p>
 
-*A structured repository documenting my Java learning journey through hands-on assignments, coding exercises, and mini projects.*
+*Documenting my progress through the Wipro TalentNext Java Full Stack Development Program.*
 
 </div>
 
@@ -18,23 +18,23 @@
 
 # 🚀 About This Repository
 
-Welcome to my **Wipro TalentNext Java Learning Journey**!
+This repository contains all the assignments, coding exercises, mini projects, and hands-on implementations completed as part of the **Wipro TalentNext Java Full Stack Development Program**.
 
-This repository represents my progress throughout the **Wipro TalentNext Java Full Stack Development Program**. It contains well-organized hands-on assignments, coding exercises, practical implementations, and mini projects completed while strengthening my understanding of **Core Java**, **problem-solving**, and **software development best practices**.
+Through this journey, I am strengthening my knowledge in:
 
-The purpose of this repository is to:
-
-- 📘 Learn Java concepts systematically
-- 💻 Practice hands-on programming assignments
-- 🧠 Improve logical and problem-solving skills
-- 📂 Maintain clean and organized Java code
-- 🚀 Track my learning progress throughout the program
+- ☕ Core Java
+- 🧠 Problem Solving & Logic Building
+- 📦 Object-Oriented Programming
+- 📚 Collections Framework
+- ⚡ Java 8 Features
+- 🔄 Exception Handling
+- 💻 Software Development Best Practices
 
 ---
 
-# 📚 Course Modules
+# 📚 Topics Covered
 
-- Java Fundamentals
+### Core Java
 - Language Basics
 - Operators
 - Flow Control Statements
@@ -43,44 +43,53 @@ The purpose of this repository is to:
 - Inheritance
 - Polymorphism
 - Abstraction
-- Exception Handling
 - Packages
+- Exception Handling
+
+### Advanced Java
 - Collections Framework
-- Multithreading
-- File Handling
-- JDBC
 - Java 8 Features
+  - Functional Interfaces
+  - Lambda Expressions
+  - Method References
+  - Stream API
+  - Date & Time API
+  - Optional Class
+
+### Practice Modules
+- Logic Building
+- Hands-On Assignments
 - Mini Projects
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 wipro-talentnext-java
 │
 ├── JavaFundamentals
-│   └── src
 │
 ├── Logic_Building
-│   └── src
-│       ├── LC1_Number_based_problems
-│       ├── LC2_Number_based_problems
-│       ├── LC3_Array_based_problems
-│       ├── LC4_String_based_problems
-│       └── LC5_Array_based_problems
 │
 ├── Logic_Building_Hour_Plan_M1
 │
 ├── OOPS_Inheritance
-│   └── src
-│       ├── Classes_and_Objects
-│       ├── Encapsulation_Abstraction
-│       ├── Inheritance
-│       ├── Overriding_Polymorphism
-│       ├── String_StringBuffer
-│       ├── StringJoinerClass
-│       └── Optional_Class
+│
+├── Collections
+│   ├── List
+│   ├── Set
+│   ├── Map
+│   ├── MiniProject1
+│   ├── MiniProject2
+│   ├── MiniProject3
+│   ├── MiniProject4
+│   ├── MiniProject5
+│   ├── Functional_Interface
+│   ├── Lambda_Expressions
+│   ├── MethodReference
+│   ├── Stream_API
+│   └── Date_Time_API
 │
 └── README.md
 ```
@@ -94,19 +103,20 @@ wipro-talentnext-java
 | Language Basics | ✅ Completed |
 | Flow Control Statements | ✅ Completed |
 | Arrays | ✅ Completed |
-| Mini Project | ✅ Completed |
+| Logic Building | ✅ Completed |
 | Classes & Objects | ✅ Completed |
 | Encapsulation & Abstraction | ✅ Completed |
 | Inheritance | ✅ Completed |
 | Method Overriding & Polymorphism | ✅ Completed |
 | String & StringBuffer | ✅ Completed |
-| StringJoiner | ✅ Completed |
 | Optional Class | ✅ Completed |
-| Exception Handling | ⏳ Upcoming |
-| Collections Framework | ⏳ Upcoming |
-| Multithreading | ⏳ Upcoming |
+| Exception Handling | ✅ Completed |
+| Collections Framework | ✅ Completed |
+| Java 8 Features | ✅ Completed |
+| Mini Projects | ✅ Completed |
 | JDBC | ⏳ Upcoming |
-| Java 8 Features | ⏳ Upcoming |
+| Multithreading | ⏳ Upcoming |
+
 ---
 
 # 🛠️ Technologies Used
@@ -118,16 +128,16 @@ wipro-talentnext-java
 
 ---
 
-# 🎯 Goal
+# 🎯 Objective
 
-Practice Java every day, improve problem-solving skills, and prepare for Java Full Stack Development.
+To build a strong foundation in Java programming through consistent practice, hands-on assignments, mini projects, and real-world coding exercises as part of the Wipro TalentNext Program.
 
 ---
 
 <div align="center">
 
-## ⭐ Learning • Coding • Growing
+## ⭐ Learn • Code • Build • Grow
 
-### Thanks for visiting my repository! 
+### Thanks for visiting my repository!
 
 </div>
