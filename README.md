@@ -30,7 +30,6 @@ Through this journey, I am strengthening my knowledge in:
 - 🔄 Exception Handling
 - 💻 Software Development Best Practices
 
----
 
 # 📚 Topics Covered
 
@@ -113,7 +112,6 @@ wipro-talentnext-java
 | JDBC | ⏳ Upcoming |
 | Multithreading | ⏳ Upcoming |
 
----
 
 # 🛠️ Technologies Used
 
@@ -121,8 +119,6 @@ wipro-talentnext-java
 - 💻 Eclipse IDE
 - 🌿 Git
 - 🐙 GitHub
-
----
 
 # 🎯 Objective
 
