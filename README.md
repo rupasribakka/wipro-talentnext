@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Wipro TalentNext - Java Full Stack Development
+#  Wipro TalentNext - Java Full Stack Development
 
 ### Learning Journey | Hands-on Assignments | Mini Projects
 
@@ -61,8 +61,6 @@ Through this journey, I am strengthening my knowledge in:
 - Hands-On Assignments
 - Mini Projects
 
----
-
 # 📂 Repository Structure
 
 ```text
@@ -93,8 +91,6 @@ wipro-talentnext-java
 │
 └── README.md
 ```
-
----
 
 # 📈 Learning Progress
 
