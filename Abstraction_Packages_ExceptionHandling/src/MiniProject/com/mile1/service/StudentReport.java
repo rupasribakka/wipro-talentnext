@@ -46,7 +46,7 @@ public class StudentReport {
         if (sum < 150)
             return "C";
         else if (sum < 200)
-            return "B";
+            return "D";
         else if (sum < 250)
             return "A";
         else
