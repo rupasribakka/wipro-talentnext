@@ -109,8 +109,8 @@ wipro-talentnext-java
 | Collections Framework | ✅ Completed |
 | Java 8 Features | ✅ Completed |
 | Mini Projects | ✅ Completed |
-| JDBC | ⏳ Upcoming |
-| Multithreading | ⏳ Upcoming |
+| Junit | ✅ Completed |
+| Multithreading | ✅ Completed |
 
 
 # 🛠️ Technologies Used
