@@ -124,8 +124,6 @@ wipro-talentnext-java
 
 To build a strong foundation in Java programming through consistent practice, hands-on assignments, mini projects, and real-world coding exercises as part of the Wipro TalentNext Program.
 
----
-
 <div align="center">
 
 ## ⭐ Learn • Code • Build • Grow
