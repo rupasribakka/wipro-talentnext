@@ -21,10 +21,7 @@ To create and test a database connection using Oracle SQL Developer.
 
 The database connection was successfully tested and connected using Oracle SQL Developer.
 
-### Screenshots
+The connection was verified by executing:
 
-#### Assignment Instructions
-![Assignment Instructions](01_Wipro_Assignment.png)
-
-#### Successful Database Connection
-![Successful Connection](02_Connection_Success.png)
+```sql
+SELECT USER FROM dual;
