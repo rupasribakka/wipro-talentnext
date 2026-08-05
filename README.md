@@ -14,8 +14,6 @@ Documenting my learning journey through the **Wipro TalentNext Java Full Stack D
 
 </div>
 
----
-
 # 🚀 About
 
 This repository contains all the assignments, practice programs, hands-on exercises, and mini projects completed as part of the **Wipro TalentNext Java Full Stack Development Program**.
@@ -43,8 +41,6 @@ The goal of this repository is to improve problem-solving skills and build a str
 - ✅ Multithreading
 - ✅ JUnit
 
----
-
 ## 📦 Collections Framework
 
 - ✅ List
@@ -52,15 +48,11 @@ The goal of this repository is to improve problem-solving skills and build a str
 - ✅ Map
 - ✅ Mini Projects
 
----
-
 ## 💻 Database
 
 - ✅ Oracle SQL
 - ✅ JDBC
 - ✅ JDBC Mini Project
-
----
 
 ## 🌐 Web Technologies
 
@@ -74,8 +66,6 @@ The goal of this repository is to improve problem-solving skills and build a str
 - CSS
 - JavaScript
 - Advanced Frontend Concepts
-
----
 
 # 📂 Repository Structure
 
@@ -97,7 +87,6 @@ wipro-talentnext
 │
 ├── README.md
 └── .gitignore
-```
 
 ---
 
@@ -158,8 +147,10 @@ To strengthen my programming skills through consistent practice, hands-on assign
 
 <div align="center">
 
-## ⭐ Keep Learning • Keep Coding • Keep Growing
+## ⭐ Keep Learning • Keep Coding • Keep Growing 🚀
 
-Thanks for visiting my repository!
+### Thank you for visiting my repository!
+
+If you find this repository useful, consider giving it a ⭐
 
 </div>
