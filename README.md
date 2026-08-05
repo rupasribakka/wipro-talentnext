@@ -1,73 +1,118 @@
 <div align="center">
 
-# ☕ Wipro TalentNext - Java Full Stack Development
+# ☕ Wipro TalentNext Journey
 
-### Hands-on Assignments • Mini Projects • Practice Programs
+### Java Full Stack Development Portfolio
 
-<p>
-  <img src="https://img.shields.io/badge/Java-Core%20Java-orange?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Wipro-TalentNext-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Wipro-TalentNext-005BAC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Oracle-SQL-red?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge"/>
 
-Documenting my learning journey through the **Wipro TalentNext Java Full Stack Development Program**.
+### 💻 Learning • Building • Improving Every Day
 
 </div>
 
-# 🚀 About
+---
 
-This repository contains all the assignments, practice programs, hands-on exercises, and mini projects completed as part of the **Wipro TalentNext Java Full Stack Development Program**.
+# 👋 Welcome
 
-The goal of this repository is to improve problem-solving skills and build a strong foundation in Java, SQL, JDBC, HTML, and Full Stack Development.
+This repository represents my complete learning journey throughout the **Wipro TalentNext Java Full Stack Development Program**.
+
+Instead of simply completing assignments, I use this repository to:
+
+- 📌 Practice every concept
+- 📌 Build mini projects
+- 📌 Improve coding standards
+- 📌 Learn version control with Git & GitHub
+- 📌 Document my progress
+
+Every module is organized with source code, assignments, mini projects, and practice programs.
 
 ---
 
-# 📚 Modules Completed
+# 🚀 Learning Roadmap
 
-## ☕ Core Java
+```
+Java Fundamentals
+        │
+        ▼
+Logic Building
+        │
+        ▼
+Object Oriented Programming
+        │
+        ▼
+Exception Handling
+        │
+        ▼
+Collections Framework
+        │
+        ▼
+JUnit Testing
+        │
+        ▼
+Multithreading
+        │
+        ▼
+Oracle SQL
+        │
+        ▼
+JDBC
+        │
+        ▼
+HTML
+        │
+        ▼
+CSS
+        │
+        ▼
+JavaScript
+        │
+        ▼
+Full Stack Development
+```
 
-- ✅ Language Basics
-- ✅ Operators
-- ✅ Flow Control Statements
-- ✅ Arrays
-- ✅ Classes & Objects
-- ✅ Inheritance
-- ✅ Polymorphism
-- ✅ Abstraction
-- ✅ Packages
-- ✅ Exception Handling
-- ✅ Wrapper Classes
-- ✅ I/O Streams
-- ✅ Multithreading
-- ✅ JUnit
+---
 
-## 📦 Collections Framework
+# 📂 Repository Modules
 
-- ✅ List
-- ✅ Set
-- ✅ Map
-- ✅ Mini Projects
+| Module | Status |
+|---------|:------:|
+| ☕ Java Fundamentals | ✅ |
+| 🧠 Logic Building | ✅ |
+| 🏗 Object-Oriented Programming | ✅ |
+| 📦 Packages | ✅ |
+| ⚠ Exception Handling | ✅ |
+| 🔤 Wrapper Classes | ✅ |
+| 📂 I/O Streams | ✅ |
+| 📚 Collections Framework | ✅ |
+| 🧪 JUnit | ✅ |
+| 🧵 Multithreading | ✅ |
+| 🗄 Oracle SQL | ✅ |
+| 🔌 JDBC | ✅ |
+| 🌐 HTML | 🚧 |
+| 🎨 CSS | ⏳ |
+| ⚡ JavaScript | ⏳ |
 
-## 💻 Database
+---
 
-- ✅ Oracle SQL
-- ✅ JDBC
-- ✅ JDBC Mini Project
+# 🛠 Technologies
 
-## 🌐 Web Technologies
+| Category | Technologies |
+|-----------|--------------|
+| Programming | Java |
+| Database | Oracle SQL, JDBC |
+| Frontend | HTML5 |
+| IDE | Eclipse IDE |
+| Database Tool | Oracle SQL Developer |
+| Version Control | Git |
+| Repository | GitHub |
 
-- ✅ HTML Basics
-- ✅ HTML Lists
-- ✅ HTML Tables
-- ✅ HTML Forms
-- ✅ HTML Frames
+---
 
-🚧 Currently Learning:
-- CSS
-- JavaScript
-- Advanced Frontend Concepts
-
-# 📂 Repository Structure
+# 📁 Project Structure
 
 ```text
 wipro-talentnext
@@ -80,77 +125,94 @@ wipro-talentnext
 ├── wrapper_classes
 ├── IO_Streams
 ├── Collections
-├── Multithreading
 ├── JUnitLearning
+├── Multithreading
 ├── RDBMS_SQL_JDBC
 ├── HTML
-│
-├── README.md
-└── .gitignore
+└── README.md
+```
 
 ---
 
-# 📈 Learning Progress
+# 📊 Progress Tracker
 
-| Module | Status |
-|---------|:------:|
-| Java Fundamentals | ✅ |
-| Logic Building | ✅ |
-| OOPS | ✅ |
-| Packages | ✅ |
-| Exception Handling | ✅ |
-| Wrapper Classes | ✅ |
-| I/O Streams | ✅ |
-| Collections | ✅ |
-| JUnit | ✅ |
-| Multithreading | ✅ |
-| Oracle SQL | ✅ |
-| JDBC | ✅ |
-| HTML | 🚧 In Progress |
-| CSS | ⏳ Upcoming |
-| JavaScript | ⏳ Upcoming |
+```
+Java Fundamentals          ████████████████████ 100%
 
----
+Logic Building             ████████████████████ 100%
 
-# 🛠 Technologies Used
+OOPS                       ████████████████████ 100%
 
-- Java
-- Oracle Database
-- SQL
-- JDBC
-- HTML5
-- Eclipse IDE
-- Oracle SQL Developer
-- Git
-- GitHub
+Collections                ████████████████████ 100%
+
+JUnit                      ████████████████████ 100%
+
+Multithreading             ████████████████████ 100%
+
+Oracle SQL                 ████████████████████ 100%
+
+JDBC                       ████████████████████ 100%
+
+HTML                       ███████████░░░░░░░░  60%
+
+CSS                        ░░░░░░░░░░░░░░░░░░░   0%
+
+JavaScript                 ░░░░░░░░░░░░░░░░░░░   0%
+```
 
 ---
 
-# 🎯 Objective
+# 🎯 Current Focus
 
-To strengthen my programming skills through consistent practice, hands-on assignments, mini projects, and real-world coding exercises as part of the Wipro TalentNext Java Full Stack Development Program.
+Currently working on:
+
+- HTML
+- Semantic Tags
+- Tables
+- Forms
+- Frames
+
+Upcoming:
+
+- CSS
+- JavaScript
+- Responsive Web Design
+- Java Full Stack Projects
 
 ---
 
-# 📌 Current Progress
+# 🌟 Why this Repository?
 
-- ✅ Core Java Completed
-- ✅ Collections Completed
-- ✅ Oracle SQL Completed
-- ✅ JDBC Completed
-- ✅ JUnit Completed
-- ✅ Multithreading Completed
-- 🚧 HTML Module In Progress
-- ⏳ CSS & JavaScript Coming Next
+✔ Hands-on Assignments
+
+✔ Mini Projects
+
+✔ Clean Folder Structure
+
+✔ Version Controlled using Git
+
+✔ Continuous Learning
+
+✔ Well Documented
+
+✔ Beginner Friendly
+
+---
+
+# 🎯 Goal
+
+> "Learn every concept by implementing it."
+
+This repository is continuously updated as I progress through the Wipro TalentNext Java Full Stack Development Program.
 
 ---
 
 <div align="center">
 
-## ⭐ Keep Learning • Keep Coding • Keep Growing 🚀
+## ⭐ Thanks for visiting!
 
-### Thank you for visiting my repository!
+### If you found this repository helpful, consider giving it a ⭐.
 
-If you find this repository useful, consider giving it a ⭐
+**Happy Coding! 🚀**
 
 </div>
