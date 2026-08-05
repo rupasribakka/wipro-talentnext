@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk"/>
 <img src="https://img.shields.io/badge/Oracle-SQL-red?style=for-the-badge&logo=oracle"/>
 <img src="https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge"/>
 
 ### 💻 Learning • Building • Improving Every Day
 
@@ -74,29 +73,25 @@ JavaScript
 Full Stack Development
 ```
 
----
-
-# 📂 Repository Modules
+# 📈 Learning Progress
 
 | Module | Status |
 |---------|:------:|
-| ☕ Java Fundamentals | ✅ |
-| 🧠 Logic Building | ✅ |
-| 🏗 Object-Oriented Programming | ✅ |
-| 📦 Packages | ✅ |
-| ⚠ Exception Handling | ✅ |
-| 🔤 Wrapper Classes | ✅ |
-| 📂 I/O Streams | ✅ |
-| 📚 Collections Framework | ✅ |
-| 🧪 JUnit | ✅ |
-| 🧵 Multithreading | ✅ |
-| 🗄 Oracle SQL | ✅ |
-| 🔌 JDBC | ✅ |
-| 🌐 HTML | 🚧 |
-| 🎨 CSS | ⏳ |
-| ⚡ JavaScript | ⏳ |
-
----
+| Java Fundamentals | ✅ |
+| Logic Building | ✅ |
+| OOPS | ✅ |
+| Packages | ✅ |
+| Exception Handling | ✅ |
+| Wrapper Classes | ✅ |
+| I/O Streams | ✅ |
+| Collections | ✅ |
+| JUnit | ✅ |
+| Multithreading | ✅ |
+| Oracle SQL | ✅ |
+| JDBC | ✅ |
+| HTML | 🚧 In Progress |
+| CSS | ⏳ Upcoming |
+| JavaScript | ⏳ Upcoming |
 
 # 🛠 Technologies
 
@@ -110,7 +105,6 @@ Full Stack Development
 | Version Control | Git |
 | Repository | GitHub |
 
----
 
 # 📁 Project Structure
 
@@ -132,7 +126,6 @@ wipro-talentnext
 └── README.md
 ```
 
----
 
 # 📊 Progress Tracker
 
@@ -201,18 +194,13 @@ Upcoming:
 
 # 🎯 Goal
 
-> "Learn every concept by implementing it."
-
 This repository is continuously updated as I progress through the Wipro TalentNext Java Full Stack Development Program.
 
----
 
 <div align="center">
 
 ## ⭐ Thanks for visiting!
 
 ### If you found this repository helpful, consider giving it a ⭐.
-
-**Happy Coding! 🚀**
 
 </div>
