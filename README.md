@@ -2,7 +2,7 @@
 
 # ☕ Wipro TalentNext Journey
 
-### Java Full Stack Development Portfolio
+### Java Full Stack Development 
 
 <img src="https://img.shields.io/badge/Wipro-TalentNext-005BAC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk"/>
@@ -12,8 +12,6 @@
 ### 💻 Learning • Building • Improving Every Day
 
 </div>
-
----
 
 # 👋 Welcome
 
@@ -28,8 +26,6 @@ Instead of simply completing assignments, I use this repository to:
 - 📌 Document my progress
 
 Every module is organized with source code, assignments, mini projects, and practice programs.
-
----
 
 # 🚀 Learning Roadmap
 
@@ -126,7 +122,6 @@ wipro-talentnext
 └── README.md
 ```
 
-
 # 📊 Progress Tracker
 
 ```
@@ -153,8 +148,6 @@ CSS                        ░░░░░░░░░░░░░░░░░�
 JavaScript                 ░░░░░░░░░░░░░░░░░░░   0%
 ```
 
----
-
 # 🎯 Current Focus
 
 Currently working on:
@@ -172,8 +165,6 @@ Upcoming:
 - Responsive Web Design
 - Java Full Stack Projects
 
----
-
 # 🌟 Why this Repository?
 
 ✔ Hands-on Assignments
@@ -189,8 +180,6 @@ Upcoming:
 ✔ Well Documented
 
 ✔ Beginner Friendly
-
----
 
 # 🎯 Goal
 
