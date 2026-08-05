@@ -1,133 +1,165 @@
 <div align="center">
 
-#  Wipro TalentNext - Java Full Stack Development
+# ☕ Wipro TalentNext - Java Full Stack Development
 
-### Learning Journey | Hands-on Assignments | Mini Projects
+### Hands-on Assignments • Mini Projects • Practice Programs
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Core%20Java-orange?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Wipro-TalentNext-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Core%20Java-orange?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/Wipro-TalentNext-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge"/>
 </p>
 
-*Documenting my progress through the Wipro TalentNext Java Full Stack Development Program.*
+Documenting my learning journey through the **Wipro TalentNext Java Full Stack Development Program**.
 
 </div>
 
 ---
 
-# 🚀 About This Repository
+# 🚀 About
 
-This repository contains all the assignments, coding exercises, mini projects, and hands-on implementations completed as part of the **Wipro TalentNext Java Full Stack Development Program**.
+This repository contains all the assignments, practice programs, hands-on exercises, and mini projects completed as part of the **Wipro TalentNext Java Full Stack Development Program**.
 
-Through this journey, I am strengthening my knowledge in:
+The goal of this repository is to improve problem-solving skills and build a strong foundation in Java, SQL, JDBC, HTML, and Full Stack Development.
 
-- ☕ Core Java
-- 🧠 Problem Solving & Logic Building
-- 📦 Object-Oriented Programming
-- 📚 Collections Framework
-- ⚡ Java 8 Features
-- 🔄 Exception Handling
-- 💻 Software Development Best Practices
+---
 
+# 📚 Modules Completed
 
-# 📚 Topics Covered
+## ☕ Core Java
 
-### Core Java
-- Language Basics
-- Operators
-- Flow Control Statements
-- Arrays
-- Classes & Objects
-- Inheritance
-- Polymorphism
-- Abstraction
-- Packages
-- Exception Handling
+- ✅ Language Basics
+- ✅ Operators
+- ✅ Flow Control Statements
+- ✅ Arrays
+- ✅ Classes & Objects
+- ✅ Inheritance
+- ✅ Polymorphism
+- ✅ Abstraction
+- ✅ Packages
+- ✅ Exception Handling
+- ✅ Wrapper Classes
+- ✅ I/O Streams
+- ✅ Multithreading
+- ✅ JUnit
 
-### Advanced Java
-- Collections Framework
-- Java 8 Features
-  - Functional Interfaces
-  - Lambda Expressions
-  - Method References
-  - Stream API
-  - Date & Time API
-  - Optional Class
+---
 
-### Practice Modules
-- Logic Building
-- Hands-On Assignments
-- Mini Projects
+## 📦 Collections Framework
+
+- ✅ List
+- ✅ Set
+- ✅ Map
+- ✅ Mini Projects
+
+---
+
+## 💻 Database
+
+- ✅ Oracle SQL
+- ✅ JDBC
+- ✅ JDBC Mini Project
+
+---
+
+## 🌐 Web Technologies
+
+- ✅ HTML Basics
+- ✅ HTML Lists
+- ✅ HTML Tables
+- ✅ HTML Forms
+- ✅ HTML Frames
+
+🚧 Currently Learning:
+- CSS
+- JavaScript
+- Advanced Frontend Concepts
+
+---
 
 # 📂 Repository Structure
 
 ```text
-wipro-talentnext-java
+wipro-talentnext
 │
-├── JavaFundamentals
-│
+├── java_fundamentals
 ├── Logic_Building
-│
 ├── Logic_Building_Hour_Plan_M1
-│
 ├── OOPS_Inheritance
-│
+├── Abstraction_Packages_ExceptionHandling
+├── wrapper_classes
+├── IO_Streams
 ├── Collections
-│   ├── List
-│   ├── Set
-│   ├── Map
-│   ├── MiniProject1
-│   ├── MiniProject2
-│   ├── MiniProject3
-│   ├── MiniProject4
-│   ├── MiniProject5
-│   ├── Functional_Interface
-│   ├── Lambda_Expressions
-│   ├── MethodReference
-│   ├── Stream_API
-│   └── Date_Time_API
+├── Multithreading
+├── JUnitLearning
+├── RDBMS_SQL_JDBC
+├── HTML
 │
-└── README.md
+├── README.md
+└── .gitignore
 ```
+
+---
 
 # 📈 Learning Progress
 
 | Module | Status |
-|----------|:------:|
-| Language Basics | ✅ Completed |
-| Flow Control Statements | ✅ Completed |
-| Arrays | ✅ Completed |
-| Logic Building | ✅ Completed |
-| Classes & Objects | ✅ Completed |
-| Encapsulation & Abstraction | ✅ Completed |
-| Inheritance | ✅ Completed |
-| Method Overriding & Polymorphism | ✅ Completed |
-| String & StringBuffer | ✅ Completed |
-| Optional Class | ✅ Completed |
-| Exception Handling | ✅ Completed |
-| Collections Framework | ✅ Completed |
-| Java 8 Features | ✅ Completed |
-| Mini Projects | ✅ Completed |
-| Junit | ✅ Completed |
-| Multithreading | ✅ Completed |
+|---------|:------:|
+| Java Fundamentals | ✅ |
+| Logic Building | ✅ |
+| OOPS | ✅ |
+| Packages | ✅ |
+| Exception Handling | ✅ |
+| Wrapper Classes | ✅ |
+| I/O Streams | ✅ |
+| Collections | ✅ |
+| JUnit | ✅ |
+| Multithreading | ✅ |
+| Oracle SQL | ✅ |
+| JDBC | ✅ |
+| HTML | 🚧 In Progress |
+| CSS | ⏳ Upcoming |
+| JavaScript | ⏳ Upcoming |
 
+---
 
-# 🛠️ Technologies Used
+# 🛠 Technologies Used
 
-- ☕ Java
-- 💻 Eclipse IDE
-- 🌿 Git
-- 🐙 GitHub
+- Java
+- Oracle Database
+- SQL
+- JDBC
+- HTML5
+- Eclipse IDE
+- Oracle SQL Developer
+- Git
+- GitHub
+
+---
 
 # 🎯 Objective
 
-To build a strong foundation in Java programming through consistent practice, hands-on assignments, mini projects, and real-world coding exercises as part of the Wipro TalentNext Program.
+To strengthen my programming skills through consistent practice, hands-on assignments, mini projects, and real-world coding exercises as part of the Wipro TalentNext Java Full Stack Development Program.
+
+---
+
+# 📌 Current Progress
+
+- ✅ Core Java Completed
+- ✅ Collections Completed
+- ✅ Oracle SQL Completed
+- ✅ JDBC Completed
+- ✅ JUnit Completed
+- ✅ Multithreading Completed
+- 🚧 HTML Module In Progress
+- ⏳ CSS & JavaScript Coming Next
+
+---
 
 <div align="center">
 
-## ⭐ Learn • Code • Build • Grow
+## ⭐ Keep Learning • Keep Coding • Keep Growing
 
-### Thanks for visiting my repository!
+Thanks for visiting my repository!
 
 </div>
